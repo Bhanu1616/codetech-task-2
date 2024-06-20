@@ -15,19 +15,19 @@
 The objective of this project is to implement infrastructure automation using Terraform. Terraform will be utilized to define and provision cloud resources in a repeatable and consistent manner across different environments.
 
 ### Key Activities
-**Terraform Configuration:** Define infrastructure components like AWS EC2 instances, VPCs, subnets, and security groups using Terraform's declarative language.
-**Deployment Automation:** Use Terraform commands (init, plan, apply) to automate provisioning, updating, and destroying of infrastructure.
-**Version Control:** Manage Terraform configurations with Git for versioning and collaboration.
+-**Terraform Configuration:** Define infrastructure components like AWS EC2 instances, VPCs, subnets, and security groups using Terraform's declarative language.
+-**Deployment Automation:** Use Terraform commands (init, plan, apply) to automate provisioning, updating, and destroying of infrastructure.
+-**Version Control:** Manage Terraform configurations with Git for versioning and collaboration.
 
 ### Technologies Used
-**Terraform:** Infrastructure as code tool for managing cloud infrastructure across providers.
-**AWS (Amazon Web Services):** Cloud platform for hosting and managing resources provisioned via Terraform.
-**Git:** Version control system for managing and tracking changes in Terraform configurations.
+-**Terraform:** Infrastructure as code tool for managing cloud infrastructure across providers.
+-**AWS (Amazon Web Services):** Cloud platform for hosting and managing resources provisioned via Terraform.
+-**Git:** Version control system for managing and tracking changes in Terraform configurations.
 
 ### Key Insights
-**Efficiency:** Streamline infrastructure deployment and updates with automated workflows.
-**Consistency:** Ensure uniformity and reliability across environments using code-defined infrastructure.
-**Scalability:** Scale resources up or down as needed, optimizing cost and performance.
+-**Efficiency:** Streamline infrastructure deployment and updates with automated workflows.
+-**Consistency:** Ensure uniformity and reliability across environments using code-defined infrastructure.
+-**Scalability:** Scale resources up or down as needed, optimizing cost and performance.
 
 
 This project focuses on leveraging Terraform for infrastructure automation, enhancing efficiency, scalability, and reliability in cloud infrastructure management.
